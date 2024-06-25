@@ -55,22 +55,6 @@
     http://127.0.0.1:5000
     ```
 
-## Project Structure
-
-air_canvas/
-│
-├── app.py
-├── templates/
-│ └── index.html
-├── static/
-│ ├── css/
-│ │ └── style.css
-│ └── js/
-│ └── script.js
-├── Color Selection UI.py
-├── Draw On Screen.py
-└── Hand Tracking.py
-
 
 ## Usage
 
@@ -88,4 +72,22 @@ For any questions or suggestions, feel free to reach out:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Project Structure
+
+```plaintext
+air_canvas/
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+├── Color Selection UI.py
+├── Draw On Screen.py
+└── Hand Tracking.py
+
 
